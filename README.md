@@ -19,6 +19,7 @@ The goal is to demonstrate:
 ---
 
 ## 📂 Project Structure  
+``` bash
 
 Loan-Interest-Rates-Prediction/
 ├── data/
@@ -29,7 +30,7 @@ Loan-Interest-Rates-Prediction/
 ├── README.md # Project documentation
 └── .gitignore # Ignored files
 
-
+```
 ---
 
 ## 📊 Dataset  
