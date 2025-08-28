@@ -21,11 +21,13 @@ The goal is to demonstrate:
 ## 📂 Project Structure  
 
 Loan-Interest-Rates-Prediction/
-│
-├── data/                # dataset (not included due to size)
-├── loan_interest.ipynb  # Jupyter notebook with analysis & model
-├── requirements.txt     # dependencies (optional)
-└── README.md            # project documentation
+├── data/
+│ └── LoanData.csv # Dataset (Bondora P2P Loans)
+├── notebooks/
+│ └── loan_interest_prediction.ipynb # Main Jupyter Notebook
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+└── .gitignore # Ignored files
 
 
 ---
