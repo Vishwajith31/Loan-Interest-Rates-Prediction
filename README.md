@@ -74,4 +74,4 @@ It includes borrower and loan attributes such as:
 ## 📎 Author  
 👤 **Vishwajith Somarampet**  
 - [GitHub](https://github.com/Vishwajith31)  
-- [LinkedIn](https://linkedin.com/in/your-profile)  
+- [LinkedIn](https://www.linkedin.com/in/vishwajithsoma31/?trk=opento_sprofile_topcard)  
