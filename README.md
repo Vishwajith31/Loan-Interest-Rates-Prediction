@@ -19,7 +19,7 @@ The goal is to demonstrate:
 ---
 
 ## 📂 Project Structure  
-```bash
+
 Loan-Interest-Rates-Prediction/
 │
 ├── data/                # dataset (not included due to size)
